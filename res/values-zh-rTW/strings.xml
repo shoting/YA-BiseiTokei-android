@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World!</string>
+    <string name="app_name">Yet Another 美聲時計</string>
+    <string name="dir_not_found">資料夾  %s 找不到。</string>
+
+    <string name="sayyou">聲優</string>
+    <string name="sayyou_summary">聲優個別設定</string>
+
+    <string name="time_tone_play">播放報時</string>
+
+    <string name="settings">設定</string>
+    <string name="time_tone">報時</string>
+    <string name="time_tone_summary">報時區間設定</string>
+    <string name="wakelock_title">保持喚醒</string>
+    <string name="wakelock_summary">啟動時不會進入休眠</string>
+
+    <string name="ignore_silent_title">忽略靜音模式</string>
+    <string name="ignore_silent_summary">靜音模式時仍然報時。</string>
+
+    <string name="prefs_timetone_serif_every">台詞+毎分</string>
+    <string name="prefs_timetone_serif">台詞(每15分)</string>
+    <string name="prefs_timetone_every">毎分</string>
+    <string name="prefs_timetone_none">無</string>
+
+    <string name="ai_nonaka">野中藍</string>
+    <string name="yuka_saitou">齊藤佑圭</string>
+    <string name="tomoko_kaneda">金田朋子</string>
+    <string name="yui_kano">鹿野優以</string>
+    <string name="ryouko_siraisi">白石涼子</string>
+    <string name="satomi_satou">佐藤聰美</string>
+    <string name="akemi_kanda">神田朱未</string>
+    <string name="kanae_itou">伊藤加奈惠</string>
+    <string name="houko_kuwashima">桑島法子</string>
+    <string name="ryo_hirohashi">廣橋涼</string>
+    <string name="mai_aizawa">相澤舞</string>
+    <string name="masumi_asano">浅野真澄</string>
+</resources>

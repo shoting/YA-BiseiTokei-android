@@ -13,7 +13,7 @@
     <string name="time_tone">Time Tone</string>
     <string name="time_tone_summary">Time tone settings</string>
     <string name="wakelock_title">WeakLock</string>
-    <string name="wakelock_summary">Don't shift to the standby</string>
+    <string name="wakelock_summary">Don\'t shift to the standby</string>
 
     <string name="ignore_silent_title">Ignore Silent Mode</string>
     <string name="ignore_silent_summary">Enable voice if silent mode.</string>
